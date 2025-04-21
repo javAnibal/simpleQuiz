@@ -1,0 +1,39 @@
+PREGUNTA: ¿Cuál es el planeta más cercano al Sol?
+A: Venus
+B: Tierra
+C: Mercurio
+D: Marte
+CORRECTA: C
+---
+
+PREGUNTA: ¿Qué gas necesitan las plantas para hacer la fotosíntesis?
+A: Oxígeno
+B: Nitrógeno
+C: Dióxido de carbono
+D: Hidrógeno
+CORRECTA: C
+---
+
+PREGUNTA: ¿Qué órgano del cuerpo humano bombea la sangre?
+A: Cerebro
+B: Pulmones
+C: Corazón
+D: Hígado
+CORRECTA: C
+---
+
+PREGUNTA: ¿Cuál es el líquido vital para los seres humanos?
+A: Aceite
+B: Agua
+C: Leche
+D: Jugo
+CORRECTA: B
+---
+
+PREGUNTA: ¿Qué astro da luz y calor a la Tierra?
+A: La Luna
+B: Marte
+C: El Sol
+D: Saturno
+CORRECTA: C
+---
